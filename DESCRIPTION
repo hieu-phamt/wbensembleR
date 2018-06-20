@@ -1,0 +1,11 @@
+Package: WEBE
+Type: Package
+Title: Weighted Bagged Ensembles
+Version: 0.1
+Author: Hieu Pham and Sigurdur Olafsson
+Maintainer: Hieu Pham <htpham@iastate.edu>
+Description: Weighted bagged ensembles that wraps around caret package
+Imports: caret
+License: GPL-2
+Repository: CRAN
+LazyData: true
